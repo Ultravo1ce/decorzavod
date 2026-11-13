@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 1600" fill="none">
+<g stroke="rgba(196,181,253,0.16)" stroke-width="1.2"><path d="M1240 360V200a120 120 0 0 1 240 0v160"/><path d="M1270 360V205a90 90 0 0 1 180 0v155" stroke-dasharray="3 7"/></g>
+<g fill="rgba(255,255,255,0.08)"><circle cx="60" cy="980" r="1.6"/>
+<circle cx="60" cy="998" r="1.6"/>
+<circle cx="60" cy="1016" r="1.6"/>
+<circle cx="60" cy="1034" r="1.6"/>
+<circle cx="78" cy="980" r="1.6"/>
+<circle cx="78" cy="998" r="1.6"/>
+<circle cx="78" cy="1016" r="1.6"/>
+<circle cx="78" cy="1034" r="1.6"/>
+<circle cx="96" cy="980" r="1.6"/>
+<circle cx="96" cy="998" r="1.6"/>
+<circle cx="96" cy="1016" r="1.6"/>
+<circle cx="96" cy="1034" r="1.6"/>
+<circle cx="114" cy="980" r="1.6"/>
+<circle cx="114" cy="998" r="1.6"/>
+<circle cx="114" cy="1016" r="1.6"/>
+<circle cx="114" cy="1034" r="1.6"/>
+<circle cx="132" cy="980" r="1.6"/>
+<circle cx="132" cy="998" r="1.6"/>
+<circle cx="132" cy="1016" r="1.6"/>
+<circle cx="132" cy="1034" r="1.6"/></g>
+<path d="M40 1420h140M40 1432h90" stroke="rgba(129,216,208,0.14)" stroke-width="1.2" stroke-linecap="round"/>
+</svg>

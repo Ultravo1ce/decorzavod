@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" fill="none">
+<g stroke="rgba(255,255,255,0.08)" stroke-width="0.8"><path d="M1180 60v220M1180 60h180"/>
+<path d="M1210 60v220M1180 90h180"/>
+<path d="M1240 60v220M1180 120h180"/>
+<path d="M1270 60v220M1180 150h180"/>
+<path d="M1300 60v220M1180 180h180"/>
+<path d="M1330 60v220M1180 210h180"/>
+<path d="M1360 60v220M1180 240h180"/></g>
+<g stroke="rgba(196,181,253,0.16)" stroke-width="1.2"><path d="M40 760h260M40 790h260"/><path d="M40 760l15 30 15-30"/>
+<path d="M70 760l15 30 15-30"/>
+<path d="M100 760l15 30 15-30"/>
+<path d="M130 760l15 30 15-30"/>
+<path d="M160 760l15 30 15-30"/>
+<path d="M190 760l15 30 15-30"/>
+<path d="M220 760l15 30 15-30"/>
+<path d="M250 760l15 30 15-30"/>
+<path d="M280 760l15 30 15-30"/></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" fill="none">
+<path d="M1270 120l70 40v80l-70 40-70-40v-80z" stroke="rgba(196,181,253,0.16)" stroke-width="1.2"/>
+<path d="M1270 150l44 25v50l-44 25-44-25v-50z" stroke="rgba(129,216,208,0.14)" stroke-width="1" stroke-dasharray="3 6"/>
+<g fill="rgba(255,255,255,0.08)"><circle cx="140" cy="700" r="2"/><circle cx="170" cy="690" r="1.4"/><circle cx="200" cy="702" r="1"/></g>
+<path d="M60 220 Q140 160 220 220" stroke="rgba(255,255,255,0.08)" stroke-width="1.2"/>
+</svg>
